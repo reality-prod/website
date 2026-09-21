@@ -180,7 +180,7 @@ Yes! The OpenJDK virtual machine is available and enables you to run application
 ### Is there Flash support?
 Not at the moment. Flash is proprietary technology from Adobe, making it difficult to support for a small open-source operating system such as Haiku.
 However, there are ways to enjoy the web without Flash, such as using HTML5 compatible versions of webpages (youtube and grooveshark support this for
-example). Besides, Adobe [deprecated Flash](https://theblog.adobe.com/adobe-flash-update/) anyway.
+example). Flash has also been deprecated since 2020. See [here](https://www.adobe.com/products/flashplayer/end-of-life-alternative.html) Haiku does have an official Firefox for secure web browsing.
 
 ### Is there an office suite?
 There are several options:
